@@ -1,7 +1,13 @@
 #StreamMediaMemand
-è¿™æ˜¯ä¸€ä¸ªå¢žå¼ºç‰ˆçš„live555çš„ç‚¹æ’­ç³»ç»Ÿã€‚å¢žåŠ äº†æ›´å¤šçš„è§†é¢‘æ ¼å¼
+ÕâÊÇÒ»¸öÔöÇ¿°æµÄlive555µÄµã²¥ÏµÍ³¡£Ôö¼ÓÁË¸ü¶àµÄÊÓÆµ¸ñÊ½
 
 
-#å…³äºŽlive555 http://www.live555.com/
+#¹ØÓÚlive555 http://www.live555.com/
 
-#è¿™æ˜¯live555çš„æºä»£ç ï¼Œç‰ˆæœ¬2014.10.28.
+#ÏÂÃæÊÇ¸üÐÂÈÕÖ¾
+
+#2014/10/31
+	1.¶Ôlive555µÄ¿ªÔ´ÏîÄ¿½øÐÐvs2010µÄÒÆÖ²
+#2014/11/03
+	1.¼ÓÈëµÄÈ¥mp4ÎÄ¼þµÄÖ§³Ö
+		Ô­Àí£ºmediaServerÖ»Ö§³Ö".m4e"¸ñÊ½µÄElementary Stream fie£¬µ«²¢²»Ö§³Ö´®Á÷mp4·â×°¸ñÊ½µÄÎÄ¼þ£¬Òª´®Á÷mp4¸ñÊ½µÄÎÄ¼þÒ»°ã¶¼ÊÇ½áºÏFFmpeg½øÐÐ£¬µ«ÊÇ´úÂëÁ¿ÉÔ´ó£¬ÕâÀïÊ¹ÓÃÒ»ÖÖ½ÏÎª¼òµ¥µÄ·½·¨ÊµÏÖ¶Ômp4·â×°¸ñÊ½ÎÄ¼þµÄ´®Á÷¡£¼´ÎÒÃÇÔ¤ÏÈ¶Ômp4ÎÄ¼þ½øÐÐ´¦Àí£¬½âÎö³ö¸÷¸öÁ÷£¬²¢µ¥¶À´æ´¢ËüÃÇ£¨½âÎö¹¤¾ßÓÃ'mp4creator -extract='£©£¬È»ºó½«½âÎö³öÀ´µÄH.264ÎÄ¼þÔÙ½øÐÐ´®Á÷´¦Àí£¨×îÐÂ°æµÄlive555Ö§³ÖH.264µÄ´®Á÷£©£¬¿Í»§¶Ë¿ÉÓÃVLC»òÕßFFmpegµÄffplay½øÐÐ´®Á÷²¥·Å
